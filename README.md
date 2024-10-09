@@ -1,1 +1,0 @@
-# js-escreve1C
